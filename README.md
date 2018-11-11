@@ -2,7 +2,7 @@
 
 hours spent: 
 
-- Which Honeypot(s) you deployed
+- Which Honeypot(s) you deployed:
 dionaea honeypot using the MHN application
 
 - Any issues you encountered
